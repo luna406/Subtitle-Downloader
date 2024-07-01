@@ -1,0 +1,54 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+video.friday.tw	FALSE	/	TRUE	1751364637	udid	1719828634527
+video.friday.tw	FALSE	/	TRUE	1719838837	idToken	""
+video.friday.tw	FALSE	/	TRUE	1722420637	code_verifier	LNLtn1hWQL4MlnKdjoC0iJ9Ok5LIY9s5
+video.friday.tw	FALSE	/	TRUE	1722420637	code_challenge	CRolO9eGbu0PuMjyK8jjYMJIF478SOoaY4ulCMLu_io
+video.friday.tw	FALSE	/	TRUE	1722420637	x_friday	ZmI9MSZmZXRuZXQ9MQ%3D%3D
+video.friday.tw	FALSE	/	FALSE	1722426468	free30WebFlag	false
+video.friday.tw	FALSE	/	TRUE	1722422261	surveyMessageDisplay	0
+.friday.tw	TRUE	/	FALSE	1754394467	_ga	GA1.1.677490076.1719828638
+.friday.tw	TRUE	/	FALSE	1727604639	_gcl_au	1.1.1443061326.1719828639
+.friday.tw	TRUE	/	FALSE	1727610468	_fbp	fb.1.1719828638806.407204858366789
+.friday.tw	TRUE	/	FALSE	1751364639	_clck	hclc9d%7C2%7Cfn3%7C0%7C1643
+video.friday.tw	FALSE	/	TRUE	1719915039	fingerprint	56506382622
+.friday.tw	TRUE	/	FALSE	1754388639	__BWtransf	c1719828639203x1f0bc1011
+.video.friday.tw	TRUE	/	FALSE	1754388639	__BWtransf	c1719828639203x1f0bc1011
+.friday.tw	TRUE	/	FALSE	1754388639	__BWfp	c1719828639203x1f0bc1011
+.video.friday.tw	TRUE	/	FALSE	1754388639	__BWfp	c1719828639203x1f0bc1011
+.video.friday.tw	TRUE	/	FALSE	1754394468	__lt__cid	36bbdf36-d269-4683-a977-cc6e638247c2
+video.friday.tw	FALSE	/	TRUE	1722422261	logined	true
+video.friday.tw	FALSE	/	TRUE	1722422261	uid	240701764435
+video.friday.tw	FALSE	/	TRUE	1722422261	MSISDN	57*******%40qq.com
+video.friday.tw	FALSE	/	TRUE	1722422261	fetToken	45UebjRJ9CedMjk9MdVvxgFccn2lsSGo7l28KXBA
+video.friday.tw	FALSE	/	TRUE	1722426468	memberType	1
+video.friday.tw	FALSE	/	TRUE	1722426468	memberTypeName	%E4%B8%80%E8%88%AC%E6%9C%83%E5%93%A1
+video.friday.tw	FALSE	/	FALSE	1719840461	login_accessToken	kzSsGtUZl0K6SDRc9WtdQlCwajtr3Ncl
+video.friday.tw	FALSE	/	FALSE	1719840461	user_coupon	kzSsGtUZl0K6SDRc9WtdQlCwajtr3Ncl
+video.friday.tw	FALSE	/	TRUE	1722426468	deviceOver	0
+video.friday.tw	FALSE	/	FALSE	1719896100	book_notice_240701764435	book_notice
+video.friday.tw	FALSE	/	TRUE	1751366272	onboardingNotifyTime	1719916672036
+video.friday.tw	FALSE	/	TRUE	1722422919	search_key	friday%7C
+video.friday.tw	FALSE	/	TRUE	1751368331	did	elxk6c8Azh76WtQOlXibGlS0Y6iK
+.friday.tw	TRUE	/	FALSE	0	dtSa	-
+video.friday.tw	FALSE	/	FALSE	1719836267	srcRId	-1
+video.friday.tw	FALSE	/	FALSE	1719836267	rId	6900449202407011947472352
+video.friday.tw	FALSE	/	TRUE	0	voBrowserName	chrome
+.video.friday.tw	TRUE	/	FALSE	1719836267	__lt__sid	06cd2df7-52a1f85c
+video.friday.tw	FALSE	/	TRUE	0	check_applyStatus	1
+video.friday.tw	FALSE	/	FALSE	0	JSESSIONID	EBCFB24E385E2755704743FDE47E060B
+.friday.tw	TRUE	/	FALSE	1719920868	_uetsid	2a923180379211ef9b1aef2aed623f58
+.friday.tw	TRUE	/	FALSE	1753530468	_uetvid	2a925ac0379211efba623b12196aa311
+.friday.tw	TRUE	/	TRUE	1753524654	__gads	ID=650ad1dbb8235ace:T=1719828654:RT=1719834468:S=ALNI_MZubE6alW3QT1sLlosiGw2FU4ZpwQ
+.friday.tw	TRUE	/	TRUE	1753524654	__gpi	UID=00000e6e21d8ffe2:T=1719828654:RT=1719834468:S=ALNI_Mb5Txo_utPi_M7JUZ5aVmGlWEW-4A
+.friday.tw	TRUE	/	TRUE	1735380654	__eoi	ID=36e7b9fa18f26c35:T=1719828654:RT=1719834468:S=AA-AfjYlWmLjVOPHx-BEru7IhJCo
+.friday.tw	TRUE	/	FALSE	1753998469	cto_bundle	dEifOl9JcXJqVCUyQlRYa1JVMkFnaU91S0Y3WkpFRlp2N3ZxMUFlWVFZQiUyQkFnczhIbGh2bXowZGRUbjE3aThDdXRydnRsYWJaSWRDYXpGdGJVb3AzQkNrU1BFN2o2cHhoTUhJV2hDR2JTZmhQVjR4VUlualBMRloxaldqQ0RWYzFGUlVNdTk5bkN3WE81UHdleSUyQk5LOSUyRml5RXFTUSUzRCUzRA
+.friday.tw	TRUE	/	FALSE	1719920869	_clsk	10el5i6%7C1719834469286%7C1%7C1%7Ch.clarity.ms%2Fcollect
+.friday.tw	TRUE	/	FALSE	1751370470	FCNEC	%5B%5B%22AKsRol-k4ZEGdt66Lk8LIcbH0PaWlE_dPhVAdNxpXUYrMTyh_klK4AQjFCC6cUhH0lXvhKuezWjq9fWXIuXdXCsnLv2d_zlXCQdGOVQc75R3CBmQfu9XJj9d62LZHscLeUL9WGicDpKxRd99BoIeiT7zQSa8BHawmw%3D%3D%22%5D%5D
+.friday.tw	TRUE	/	FALSE	0	dtPC	-
+.friday.tw	TRUE	/	FALSE	1754394471	_ga_DB8YVZNV7E	GS1.1.1719834466.2.1.1719834471.55.0.0
+.friday.tw	TRUE	/	FALSE	0	dtCookie	5C54AB68BCF6A1A22B46535876774E81|dmlkZW8uZnJpZGF5LnR3fDE
+.friday.tw	TRUE	/	FALSE	0	dtLatC	3
+.friday.tw	TRUE	/	FALSE	1754394492	__BW_407-12P0644Q0CCCJJ8	1719834467.1719834467.1719834492
